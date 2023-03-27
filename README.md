@@ -7,7 +7,7 @@ Soy un desarrollador apasionado por la tecnología y la programación, siempre e
 - La creación de una página web para la municipalidad local, utilizando Laravel y Docker.
 - El desarrollo de una aplicación móvil en React Ionic.
 - Un proyecto personal de automatización de procesos.
-- Una que otra guia de algun estudiante de programación
+- Una que otra guia de algún estudiante de programación
 
 ## 🌱 Actualmente estoy aprendiendo ...
 
@@ -20,8 +20,6 @@ Soy un desarrollador apasionado por la tecnología y la programación, siempre e
 ![Estadísticas de GitHub de Lonkonao](https://github-readme-stats.vercel.app/api?username=lonkonao&show_icons=true&theme=vue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lonkonao&layout=compact)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lonkonao&show_icons=true&theme=transparent)
 
 ## Tecnologías
 
@@ -43,3 +41,5 @@ Soy un desarrollador apasionado por la tecnología y la programación, siempre e
 - [Proyecto de automatización de procesos](#): Proyecto personal de automatización de procesos.
 - [Guias de estudiantes de Programación](#): Guias que me hacen llegar para desarrollar (si necesitas ayuda contactame)
 
+
+Sigueme para más
